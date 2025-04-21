@@ -1,0 +1,4 @@
+# Ignore .modified and .orig files
+*.modified
+*.orig
+.DS_Store*
